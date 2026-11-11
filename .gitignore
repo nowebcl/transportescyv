@@ -1,0 +1,9 @@
+.agent/
+.antigravity/
+audit_results.json
+assets/audit_*.png
+assets/crop_desktop_logo.png
+assets/final_desktop_hero.png
+assets/final_mobile_hero.png
+.DS_Store
+Thumbs.db
